@@ -4,7 +4,7 @@ Welcome to the official GitHub home of **Zevora Global**. We are a premier IT ag
 
 ### 🛠️ What We Do
 We specialize in turning complex business problems into seamless digital experiences. Our core expertise includes:
-- **Full-stack Web Development** (MERN/PERN Stack)
+- **Full-stack Web Development** (Asp.Net Core , Php/Laravel, MERN Stack)
 - **Mobile App Development** (Cross-platform & Native)
 - **UI/UX Design** (Modern & User-Centric)
 - **Digital Marketing & Branding** (via Meta Business Suite)
